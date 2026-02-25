@@ -17,12 +17,12 @@ You can also email me at vasantharank.work@gmail.com
 
 ## Workshop Summary
 This 6 - 7 hours of workshop covers the complete cycle of applied machine learning through six modules:
-- Introduction to Machine Learning
-- Understanding Computational resources
-- Machine Learning Workflow
-- Hands on Model Development
-- Building a REST API for ML Model
-- Deploying the model to cloud
+- [Introduction to Machine Learning](./Module%201/Introduction_to_Machine_Learning.md)
+- [Understanding Computational resources](./Module%202/Understanding_Computational_resources.md)
+- [Machine Learning Workflow](./Module%203/Machine_Learning_Workflow.md)
+- [Hands on Model Development](./Module%204/Hands_on_Model_Development.md)
+- [Building a REST API for ML Model](./Module%205/Building_a_REST_API_for_ML_Model.md)
+- [Deploying the model to cloud](./Module%206/Deploying_the_model_to_cloud.md)
 
 By the end of the workshop, you will build and deploy a working machine learning application on your own.
 
