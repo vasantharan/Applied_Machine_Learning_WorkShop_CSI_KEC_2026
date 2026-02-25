@@ -307,7 +307,7 @@ y = [50, 75]
 
 **Human View:**
 
-<div align="center" style="font-size: 80px;">
+<div style="font-size: 100px;">
 😀
 </div>
 
