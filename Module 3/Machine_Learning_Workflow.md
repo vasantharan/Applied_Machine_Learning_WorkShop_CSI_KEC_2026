@@ -338,6 +338,6 @@ y = [50, 75]
 
 ---
 
-## Let's have our hands on
+## Let's have a hands on
 
 Refer the [`main.ipynb`](./main.ipynb) file
