@@ -340,4 +340,4 @@ y = [50, 75]
 
 ## Let's have our hands on
 
-Refer the `main.ipynb` file
+Refer the [`main.ipynb`](./main.ipynb) file
